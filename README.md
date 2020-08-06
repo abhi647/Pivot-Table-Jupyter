@@ -36,6 +36,7 @@ Independently control the output file path and the URL used to access it from Ju
 
 .. code:: python
 
+
     pivot_ui(df, outfile_path="/x/y.html", url="http://localhost/a/b/x.html")
 
 .. _Jupyter/IPython Notebook: http://jupyter.org/
